@@ -1,16 +1,14 @@
 ---
 layout: page
-title: project 1
+title: Identify Small Molecule Probes that Modulate the Binding Between Tau and LRP1 
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/12.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Tau propagation is a key driver of neurodegeneration in Tauopathies, including Alzheimer’s disease. Our research focuses on LRP1-mediated Tau uptake as a therapeutic target. We develop biochemical and cell-based assays to study Tau–LRP1 interactions and identify small-molecule inhibitors. Using DNA-encoded library screening and follow-up validation, we aim to discover compounds that block Tau uptake and reduce disease progression.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
