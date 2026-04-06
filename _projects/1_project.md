@@ -2,7 +2,7 @@
 layout: page
 title: Identify Small Molecule Probes that Modulate the Binding Between Tau and LRP1 
 description: with background image
-img: assets/img/12.png
+img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
